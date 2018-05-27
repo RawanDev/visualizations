@@ -5,7 +5,7 @@ Repository for displaying data visualization projects.
 
 ### First project: Visualizing Using Folium Library to display population of reigns in Saudi Arabia
 
-![التعداد السكاني في المملكة العربية السعودية لعام 2012](images/sa2012.png)
+![](https://github.com/RawanDev/visualizations/blob/master/images/sa2012.PNG)
 
 
 
